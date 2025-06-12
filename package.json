@@ -1,0 +1,36 @@
+{
+  "name": "@allinpanel-ag/jest-preset-sw6-admin",
+  "version": "6.0.5",
+  "description": "Jest Test preset for AllinPanel 6 administration unit tests",
+  "main": "jest-preset.js",
+  "keywords": [
+    "jest",
+    "unit",
+    "test",
+    "unit-test",
+    "allinpanel"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allinpanel-org/jest-preset-ap6-admin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allinpanel-org/jest-preset-ap6-admin/issues"
+  },
+  "homepage": "https://github.com/allinpanel-org/jest-preset-ap6-admin#readme",
+  "engines": {
+    "node": "^20.0.0 || ^21.0.0 || ^22.0.0 || ^23.0.0",
+    "npm": ">=10.0.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.17.12",
+    "@babel/preset-typescript": "^7.16.7",
+    "babel-jest": "^27.5.1",
+    "babel-plugin-allinpanel-vite-meta-glob": "^0.0.4",
+    "uuid": "^8.3.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
