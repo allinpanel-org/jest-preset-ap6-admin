@@ -1,5 +1,5 @@
 {
-  "name": "@allinpanel-ag/jest-preset-sw6-admin",
+  "name": "@allinpanel-ag/jest-preset-ap6-admin",
   "version": "6.0.5",
   "description": "Jest Test preset for AllinPanel 6 administration unit tests",
   "main": "jest-preset.js",
